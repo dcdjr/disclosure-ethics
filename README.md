@@ -14,6 +14,3 @@ This repository contains a research paper analyzing the ethical dilemmas surroun
 - Zero-day retention and the U.S. Vulnerabilities Equities Process (VEP)  
 - Impact of disclosure timing on user safety and risk  
 - Log4Shell timeline and ethical implications
-
-## Purpose
-This paper demonstrates analytical reasoning, cybersecurity domain understanding, and the ability to communicate complex security concepts clearly in a structured research format.
